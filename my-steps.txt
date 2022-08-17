@@ -1,0 +1,129 @@
+### Step 2A
+/Users/user
+
+### Step 2B
+cd Desktop
+
+### Step 2C
+cd unit1-git-practice
+
+### Step 2D
+/Users/user/Desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ~
+
+### Step 2H
+/Users/user
+
+### Step 2I
+Applications					Music
+Betweeness.mp4					Oktoacid.mp4
+ConnectionB.mp4					Pictures
+Cool Ones.mp4					Public
+Desktop						Screen Recording 2022-02-26 at 11.54.08 PM.mov
+Documents					Screen Recording 2022-04-21 at 7.00.13 AM.mov
+Downloads					Screen Recording 2022-08-03 at 11.22.33 PM.mov
+F16IG.mp4					Silent Treatment.mp4
+Goosebumps.mp4					Tailwind
+Happiness IG.mp4				The Angels Sing.mp4
+HappinessIG.mp4					Untitled Project 2.mp4
+Hidden Mountain.mp4				Untitled Project 3.mp4
+Honeward (Album Release).mp4			Untitled Project copy.mp4
+Honeward (Album Release).osp			Untitled Project.mp4
+Into The Ocean.mp4				Untitled Project.osp
+King Zarrdon.mp4				Untitled Project2.mp4
+Library						Untitled ProjectC.mp4
+MAR11JAM.mp4					Urn.mp4
+Manifest Destiny.mp4				What It Takes.mp4
+Misplaced.mp4					first-app
+Movies		
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd Desktop	
+cd unit1-git-practice
+
+### Step 3A
+mkdir veggies
+mkdir meats
+mkdir desserts
+
+### Step 3B
+
+mv desserts sweets
+
+### Step 3C
+
+mkdir proteins
+
+### Step 3D
+
+mv meats proteins
+
+### Step 3E
+
+cd veggies
+touch carrot.txt
+touch pea.txt
+
+### Step 3F
+
+cd ..
+cd sweets
+touch cookie.txt
+
+### Step 3G
+
+mv cookie.txt donut.txt
+
+### Step 3H
+
+cd ..
+touch thing.txt
+
+### Step 3I
+cp thing.txt tofu.txt
+
+
+### Step 3J
+mv tofu.txt /proteins
+
+### Step 3K
+
+cp thing.txt crab.txt
+mv crab.txt proteins/meats/
+
+### Step 3L
+
+rm thing.txt
+
+### Step 3M
+
+cp -r veggies plants
+
+### Step 3N
+
+mkdir drinks
+rm -r drinks
+
+### Step 4
+
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
